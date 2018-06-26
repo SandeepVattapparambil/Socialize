@@ -1,0 +1,28 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "Special_Authority/assets/plugins/gmaps/package.json",
+        "Special_Authority/assets/plugins/jquery-file-upload/package.json",
+        "Special_Authority/assets/plugins/jquery-file-upload/server/node/package.json",
+        "Special_Authority/assets/plugins/jquery-validation/package.json",
+        "admin/assets/plugins/gmaps/package.json",
+        "admin/assets/plugins/jquery-file-upload/package.json",
+        "admin/assets/plugins/jquery-file-upload/server/node/package.json",
+        "admin/assets/plugins/jquery-validation/package.json",
+        "ca/assets/plugins/gmaps/package.json",
+        "ca/assets/plugins/jquery-file-upload/package.json",
+        "ca/assets/plugins/jquery-file-upload/server/node/package.json",
+        "ca/assets/plugins/jquery-validation/package.json",
+        "db/assets/plugins/gmaps/package.json",
+        "db/assets/plugins/jquery-file-upload/package.json",
+        "db/assets/plugins/jquery-file-upload/server/node/package.json",
+        "db/assets/plugins/jquery-validation/package.json",
+        "user/assets/plugins/gmaps/package.json",
+        "user/assets/plugins/jquery-file-upload/package.json",
+        "user/assets/plugins/jquery-file-upload/server/node/package.json",
+        "user/assets/plugins/jquery-validation/package.json"
+      ]
+    }
+  }
+}
