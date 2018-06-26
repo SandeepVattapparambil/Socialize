@@ -1,6 +1,8 @@
 Socialize
 =========
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/SandeepVattapparambil/Socialize.svg)](https://greenkeeper.io/)
+
 The Social Service Application
 -------------------------------
 
